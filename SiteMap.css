@@ -1,0 +1,33 @@
+div.container {
+    
+    flex-direction: column;
+}
+
+li.button {
+    margin: 10px;
+    width: 80px;
+}
+
+html,body{
+    font: Helvetica Nueue;
+    font-family: sans-serif;
+    background-color: #E6ECF0;
+    height: 100%;
+    width: 100%;
+}
+
+.footerlist {
+    font-weight: bold;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.footeritem {
+    color: black;
+    margin-left: 20px;
+    
+    display: inline-block;
+    cursor: pointer;
+}
